@@ -1,0 +1,16 @@
+{
+  "name": "TDD",
+  "version": "1.0.0",
+  "description": "javascript test driven development",
+  "main": "index.js",
+  "repository": "git@github.com:LeeLeeLeeee/TDD-javascript-.git",
+  "author": "leeleeleeee <ijj1792@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --config=jest.config.js"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.1"
+  }
+}
